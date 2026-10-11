@@ -225,9 +225,9 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Step | Description | Completed
 --- | --- | ---
 2-1 | 1st Favorite emoji | 🤠
-2-2 | Link to `commit #1 from Github.com` |
-2-3 | Link to markdown tables docs |
-2-4 | What does `log` do? |
+2-2 | Link to `commit #1 from Github.com` | https://github.com/anmsmith-cmd/learn-git-milestones/commit/33e712a8c929792b446688f69e62b9f720d17ae2 
+2-3 | Link to markdown tables docs | https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables 
+2-4 | What does `log` do? | It shows the commit history of a Git repository. 
 3-1 | 2nd Favorite emoji |
 3-2 | Link to `commit #2 from Github Desktop` |
 4-1 | Full path to your working directory |
