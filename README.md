@@ -234,7 +234,7 @@ Step | Description | Completed
 anasmith@Anas-MacBook-Air-2 learn-git-milestones %
 4-2 | Link to `commit #3 from CLI` | https://github.com/anmsmith-cmd/learn-git-milestones/commit/a275d7490e7be5e94bc87e67e8fc3441d0b30c7a
 5-1 | Link to `first-website` github.com repo page | https://github.com/anmsmith-cmd/first-website
-6-1 | Link to `first-website` github.io "project site" |
+6-1 | Link to `first-website` github.io "project site" | https://anmsmith-cmd.github.io/first-website/ 
 
 
 
